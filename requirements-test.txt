@@ -1,4 +1,4 @@
-openwisp-utils[qa,selenium,channels,channels-test] @ https://github.com/openwisp/openwisp-utils/tarball/1.2
+openwisp-utils[qa,selenium,channels,channels-test] @ file:///home/spanidea-lt22/Desktop/NOKIA/communications/openwisp-utils
 django-cors-headers~=4.4.0
 django-redis~=5.4.0
 freezegun~=1.5.2
