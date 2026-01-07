@@ -1,7 +1,11 @@
 # openwisp-users @ https://github.com/sachinspanidea8484/openwisp-users-spanidea/tarball/main
-openwisp-users @ git+https://sachin:kkVgLq7Uyd5vgKzTkDEf@git.spanidea.com/nokia-test-automation/openwisp-users-spanidea.git@dev
+openwisp-users @ git+https://sachin:-ayqCK-pz-XLzvW1nmjE@git.spanidea.com/nokia-test-automation/openwisp-users-spanidea.git@dev
+# openwisp-users @ file:///home/spanidea-lt22/Desktop/NOKIA/communications/openwisp-users
+
 # openwisp-utils[rest,celery,channels] @ https://github.com/sachinspanidea8484/openwisp-utils-spanidea/tarball/main
-openwisp-utils[rest,celery,channels] @ git+https://sachin:kkVgLq7Uyd5vgKzTkDEf@git.spanidea.com/nokia-test-automation/openwisp-utils-spanidea.git@dev
+openwisp-utils[rest,celery,channels] @ git+https://sachin:-ayqCK-pz-XLzvW1nmjE@git.spanidea.com/nokia-test-automation/openwisp-utils-spanidea.git@dev  
+# openwisp-utils[rest ,celery,channels] @ file:///home/spanidea-lt22/Desktop/NOKIA/communications/openwisp-utils
+
 markdown~=3.8.0
 jsonfield>=2.1.0
 

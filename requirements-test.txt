@@ -1,5 +1,7 @@
 # openwisp-utils[qa,selenium,channels,channels-test] @ https://github.com/sachinspanidea8484/openwisp-utils-spanidea/tarball/main
-openwisp-utils[qa,selenium,channels,channels-test] @ git+https://sachin:kkVgLq7Uyd5vgKzTkDEf@git.spanidea.com/nokia-test-automation/openwisp-utils-spanidea.git@dev
+openwisp-utils[qa,selenium,channels,channels-test] @ git+https://sachin:-ayqCK-pz-XLzvW1nmjE@git.spanidea.com/nokia-test-automation/openwisp-utils-spanidea.git@dev 
+# openwisp-utils[qa,selenium,channels,channels-test] @ file:///home/spanidea-lt22/Desktop/NOKIA/communications/openwisp-utils
+
 django-cors-headers~=4.4.0
 django-redis~=5.4.0
 freezegun~=1.5.2
